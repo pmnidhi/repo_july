@@ -47,7 +47,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>deployment</id>
-			<url>http://54.226.31.62:8081/repository/maven-snapshots/</url>
+			<url>http://54.227.72.183:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
